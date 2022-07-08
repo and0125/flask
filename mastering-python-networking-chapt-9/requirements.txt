@@ -1,0 +1,12 @@
+flask
+flask-httpauth
+flask-sqlalchemy
+jinja2
+markupsafe
+pygments
+sqlalchemy
+werkzeug
+httpie
+itsdangerous
+python-dateutil
+requests
